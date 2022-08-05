@@ -1,0 +1,2 @@
+Notes about starcoin learning.
+
